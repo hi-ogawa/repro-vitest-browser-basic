@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@vitest/browser": "^1.2.1",
+    "playwright": "^1.41.1",
+    "vite": "^5.0.12",
+    "vitest": "^1.2.1"
+  },
+  "packageManager": "pnpm@8.14.3+sha256.2d0363bb6c314daa67087ef07743eea1ba2e2d360c835e8fec6b5575e4ed9484",
+  "volta": {
+    "node": "20.11.0"
+  },
+  "stackblitz": {
+    "startCommand": "pnpm test"
+  }
+}

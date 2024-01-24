@@ -4,6 +4,9 @@
   "scripts": {
     "test": "vitest"
   },
+  "dependencies": {
+    "loupe": "2.3.6"
+  },
   "devDependencies": {
     "@vitest/browser": "^1.2.1",
     "playwright": "^1.41.1",

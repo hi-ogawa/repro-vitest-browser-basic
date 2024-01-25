@@ -4,7 +4,7 @@ export default defineConfig({
   optimizeDeps: {
     // debug by
     //   DEBUG=vite:deps pnpm test
-    // force: true
+    force: true
   },
   test: {
     browser: {

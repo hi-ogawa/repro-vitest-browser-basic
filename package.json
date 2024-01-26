@@ -7,6 +7,7 @@
   "devDependencies": {
     "@vitest/browser": "^1.2.1",
     "playwright": "^1.41.1",
+    "url": "^0.11.3",
     "vite": "^5.0.12",
     "vitest": "^1.2.1"
   },
